@@ -34,10 +34,10 @@ body{
 }
 
 .navbar-nav{
-    @media (max-width: 768px) {
+    
         background-color: rgb(245, 245, 226);
         padding: 0px, auto, 0px, auto;
-    }
+    
    
 }
 
@@ -55,7 +55,7 @@ body{
 
 
 /* Our menu */
-#main-body .main-title h2:hover, .main-title h2:focus{
+#main-body .main-title a:hover, .main-title a:focus{
     text-decoration: none;
 }
 
